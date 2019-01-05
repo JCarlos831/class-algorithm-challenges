@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/ThisAndThat/ThisAndThat/bin/Debug/netcoreapp2.1/ThisAndThat.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/ThisAndThat/ThisAndThat/bin/Debug/netcoreapp2.1/ThisAndThat.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/ThisAndThat/ThisAndThat/bin/Debug/netcoreapp2.1/ThisAndThat.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/ThisAndThat/ThisAndThat/bin/Debug/netcoreapp2.1/ThisAndThat.dll
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/ThisAndThat/ThisAndThat/bin/Debug/netcoreapp2.1/ThisAndThat.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/ThisAndThat/ThisAndThat/obj/Debug/netcoreapp2.1/ThisAndThat.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/ThisAndThat/ThisAndThat/obj/Debug/netcoreapp2.1/ThisAndThat.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/ThisAndThat/ThisAndThat/obj/Debug/netcoreapp2.1/ThisAndThat.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/ThisAndThat/ThisAndThat/obj/Debug/netcoreapp2.1/ThisAndThat.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/ThisAndThat/ThisAndThat/obj/Debug/netcoreapp2.1/ThisAndThat.dll
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/ThisAndThat/ThisAndThat/obj/Debug/netcoreapp2.1/ThisAndThat.pdb
