@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/DrawTicTacToeBoard/DrawTicTacToeBoard/bin/Debug/netcoreapp2.1/DrawTicTacToeBoard.deps.json
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/DrawTicTacToeBoard/DrawTicTacToeBoard/bin/Debug/netcoreapp2.1/DrawTicTacToeBoard.runtimeconfig.json
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/DrawTicTacToeBoard/DrawTicTacToeBoard/bin/Debug/netcoreapp2.1/DrawTicTacToeBoard.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/DrawTicTacToeBoard/DrawTicTacToeBoard/bin/Debug/netcoreapp2.1/DrawTicTacToeBoard.dll
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/DrawTicTacToeBoard/DrawTicTacToeBoard/bin/Debug/netcoreapp2.1/DrawTicTacToeBoard.pdb
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/DrawTicTacToeBoard/DrawTicTacToeBoard/obj/Debug/netcoreapp2.1/DrawTicTacToeBoard.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/DrawTicTacToeBoard/DrawTicTacToeBoard/obj/Debug/netcoreapp2.1/DrawTicTacToeBoard.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/DrawTicTacToeBoard/DrawTicTacToeBoard/obj/Debug/netcoreapp2.1/DrawTicTacToeBoard.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/DrawTicTacToeBoard/DrawTicTacToeBoard/obj/Debug/netcoreapp2.1/DrawTicTacToeBoard.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/DrawTicTacToeBoard/DrawTicTacToeBoard/obj/Debug/netcoreapp2.1/DrawTicTacToeBoard.dll
+/Users/JuanCMontoya/Projects/RiderProjects/CareerDevs/DailyAlgorithm/DrawTicTacToeBoard/DrawTicTacToeBoard/obj/Debug/netcoreapp2.1/DrawTicTacToeBoard.pdb
