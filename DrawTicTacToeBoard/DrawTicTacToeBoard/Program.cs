@@ -6,11 +6,17 @@ namespace DrawTicTacToeBoard
     {
         static void Main(string[] args)
         {
-            DrawBoard(10);
+            DrawBoard(5);
         }
 
         private static void DrawBoard(int size)
         {
+            for (var j = 0; j < size-1; j++)
+            {
+                Console.Write("   |   ");
+            }
+
+            Console.WriteLine();
             for (var i = 0; i < size-1; i++)
             {
                 for (var j = 0; j < size-1; j++)
@@ -31,6 +37,10 @@ namespace DrawTicTacToeBoard
                 }
 
                 Console.WriteLine();
+            }
+            for (var j = 0; j < size-1; j++)
+            {
+                Console.Write("   |   ");
             }
         }
     }
